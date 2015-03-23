@@ -1,8 +1,9 @@
 @import url(https://fonts.googleapis.com/css?family=Lato:300italic,700italic,300,700);
 
 body {
-  background-image: url('https://unsplash.imgix.net/uploads/14115890754139bc8568d/d5e1ad1d?fit=crop&fm=jpg&h=700&q=75&w=1050');
+  background-image: url('https://unsplash.imgix.net/uploads/1411589183965bdf6e141/5f468e98?fit=crop&fm=jpg&h=700&q=75&w=1050');
   background-size: cover;
+  background-color: gray;
   padding:50px;
   font:14px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight:300;
@@ -10,12 +11,14 @@ body {
 
 }
 h1, h2, h3, h4, h5, h6 {
-  color:#222;
+  color: #0000FF;
   margin:0 0 20px;
 }
 
 p, ul, ol, table, pre, dl {
   margin:0 0 20px;
+  color: white;
+  font-size: 18px;
 
 }
 
@@ -33,7 +36,7 @@ h2 {
 }
 
 h3, h4, h5, h6 {
-  color:#494949;
+  color: white;
 }
 
 a {
@@ -256,3 +259,7 @@ footer {
     font-size:12pt;
     color:#444;
   }
+anchor {
+  color: white;
+
+}

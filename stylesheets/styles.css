@@ -3,7 +3,6 @@
 body {
   background-image: url('https://unsplash.imgix.net/uploads/1411589183965bdf6e141/5f468e98?fit=crop&fm=jpg&h=700&q=75&w=1050');
   background-size: cover;
-  background-color: gray;
   padding:50px;
   font:14px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight:300;
@@ -170,6 +169,10 @@ section {
   width:500px;
   float:right;
   padding-bottom:50px;
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: rgba(0,0,0,0.7);
+  border-radius: 25px 10px 25px 10px;
 }
 
 small {
@@ -212,6 +215,7 @@ footer {
     border-width:1px 0;
     padding:20px 0;
     margin:0 0 20px;
+
   }
 
   header a small {

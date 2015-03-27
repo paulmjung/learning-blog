@@ -3,6 +3,7 @@
 body {
   background-image: url('https://unsplash.imgix.net/uploads/1411589183965bdf6e141/5f468e98?fit=crop&fm=jpg&h=700&q=75&w=1050');
   background-size: cover;
+  background-attachment: fixed;
   padding:50px;
   font:14px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight:300;
@@ -99,7 +100,6 @@ th {
 
 img {
   max-width:100%;
-  position:fixed;
 }
 
 header {

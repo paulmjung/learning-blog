@@ -176,6 +176,7 @@ section {
   float:right;
   padding:20px;
   box-shadow:0px 0px 5px black;
+  opacity: 90%;
   border-radius: 8px;
   margin: 25px 0px 25px 0px;
 }

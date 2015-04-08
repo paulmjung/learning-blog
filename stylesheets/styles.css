@@ -9,8 +9,8 @@ body {
   font-weight:300;
 }
 
-btn {
-  border-radius: 100%;
+.btn-info {
+  border-radius: 50%;
 
 }
 
